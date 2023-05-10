@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FlashCard-Generator/static/css/main.145f9278.css",
+    "main.js": "/FlashCard-Generator/static/js/main.b1cb6933.js",
+    "index.html": "/FlashCard-Generator/index.html",
+    "main.145f9278.css.map": "/FlashCard-Generator/static/css/main.145f9278.css.map",
+    "main.b1cb6933.js.map": "/FlashCard-Generator/static/js/main.b1cb6933.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.145f9278.css",
+    "static/js/main.b1cb6933.js"
+  ]
+}
